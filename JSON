@@ -1,0 +1,260 @@
+{
+  "gameName": "World of Warcraft: Wrath of the Lich King Classic",
+  "genre": "MMORPG",
+  "year": "2022",
+  "online": true,
+  "raceClassCombination": [
+    {
+      "Aliance": [
+        {
+          "class": "Death Knight",
+          "roles": [
+            "Tank",
+            "Melee DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Dwarf",
+            "Gnome",
+            "Human",
+            "Night Ef"
+          ]
+        },
+        {
+          "class": "Druid",
+          "roles": [
+            "Tank",
+            "Heal",
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Night Ef"
+          ]
+        },
+        {
+          "class": "Hunter",
+          "roles": [
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Dwarf",
+            "Night Ef"
+          ]
+        },
+        {
+          "class": "Mage",
+          "roles": [
+            "Range DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Gnome",
+            "Human"
+          ]
+        },
+        {
+          "class": "Paladin",
+          "roles": [
+            "Tank",
+            "Heal",
+            "Melee DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Dwarf",
+            "Human"
+          ]
+        },
+        {
+          "class": "Priest",
+          "roles": [
+            "Heal",
+            "Range DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Dwarf",
+            "Human",
+            "Night Ef"
+          ]
+        },
+        {
+          "class": "Rogue",
+          "roles": [
+            "Melee DPS"
+          ],
+          "races": [
+            "Dwarf",
+            "Gnome",
+            "Human",
+            "Night Ef"
+          ]
+        },
+        {
+          "class": "Shaman",
+          "roles": [
+            "Heal",
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Draenei"
+          ]
+        },
+        {
+          "class": "Warlock",
+          "roles": [
+            "Range DPS"
+          ],
+          "races": [
+            "Gnome",
+            "Human"
+          ]
+        },
+        {
+          "class": "Warrior",
+          "roles": [
+            "Tank",
+            "Melee DPS"
+          ],
+          "races": [
+            "Draenei",
+            "Dwarf",
+            "Gnome",
+            "Human",
+            "Night Ef"
+          ]
+        }
+      ]
+    },
+    {
+      "Horde": [
+        {
+          "class": "Death Knight",
+          "roles": [
+            "Tank",
+            "Melee DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Orc",
+            "Tauren",
+            "Troll",
+            "Undead"
+          ]
+        },
+        {
+          "class": "Druid",
+          "roles": [
+            "Tank",
+            "Heal",
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Tauren"
+          ]
+        },
+        {
+          "class": "Hunter",
+          "roles": [
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Orc",
+            "Tauren",
+            "Troll"
+          ]
+        },
+        {
+          "class": "Mage",
+          "roles": [
+            "Range DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Troll",
+            "Undead"
+          ]
+        },
+        {
+          "class": "Paladin",
+          "roles": [
+            "Tank",
+            "Heal",
+            "Melee DPS"
+          ],
+          "races": [
+            "Blood Elf"
+          ]
+        },
+        {
+          "class": "Priest",
+          "roles": [
+            "Heal",
+            "Range DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Troll",
+            "Undead"
+          ]
+        },
+        {
+          "class": "Rogue",
+          "roles": [
+            "Melee DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Orc",
+            "Troll",
+            "Undead"
+          ]
+        },
+        {
+          "class": "Shaman",
+          "roles": [
+            "Heal",
+            "Melee DPS",
+            "Range DPS"
+          ],
+          "races": [
+            "Orc",
+            "Tauren",
+            "Troll"
+          ]
+        },
+        {
+          "class": "Warlock",
+          "roles": [
+            "Range DPS"
+          ],
+          "races": [
+            "Blood Elf",
+            "Orc",
+            "Undead"
+          ]
+        },
+        {
+          "class": "Warrior",
+          "roles": [
+            "Tank",
+            "Melee DPS"
+          ],
+          "races": [
+            "Orc",
+            "Tauren",
+            "Troll",
+            "Undead"
+          ]
+        }
+      ]
+    }
+  ]
+}
